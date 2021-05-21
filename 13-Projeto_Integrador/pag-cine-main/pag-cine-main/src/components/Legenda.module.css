@@ -1,0 +1,39 @@
+.wrap {
+  max-width: 200px;
+  margin: auto;  
+  display: flex;
+}
+
+.circle {
+  width: 16px;
+  height: 16px;
+  background-color: #282c34;
+  border-radius: 25%;
+  display: inline-block;
+  margin-right: 4px;  
+}
+
+.left,
+.right {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;  
+  justify-content: flex-start;
+  align-items: flex-start;    
+}
+
+.selected {
+  background-color: #10812b;  
+}
+
+.selecting {
+  background-color: #a73733;  
+}
+
+.Ouro {  
+  border: 1.8px solid yellow 
+}
+
+.Bronze {  
+  border: 1.8px solid white;   
+}

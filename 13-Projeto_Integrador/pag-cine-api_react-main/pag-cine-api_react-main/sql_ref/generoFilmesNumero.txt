@@ -1,0 +1,30 @@
+Lista de gêneros cinematográficos:
+
+1 - Ação
+2 - Aventura
+3 - Cinema de arte
+4 - Chanchada
+5 - Comédia
+6 - Comédia de ação
+7 - Comédia de terror
+8 - Comédia dramática
+9 - Comédia romântica
+10 - Dança
+11 - Documentário
+12 - Docuficção
+13 - Drama
+14 - Espionagem
+15 - Faroeste
+16 - Fantasia
+17 - Fantasia científica
+18 - Ficção científica
+19 - Filmes com truques
+20 - Filmes de guerra
+21 - Musical
+22 - Filme policial
+23 - Romance
+24 - Seriado
+25 - Suspense
+26 - Terror
+27 - Thriller
+28 - Pornográfico
